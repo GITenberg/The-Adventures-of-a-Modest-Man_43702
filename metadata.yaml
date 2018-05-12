@@ -1,0 +1,41 @@
+_repo: The-Adventures-of-a-Modest-Man_43702
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Frederick, Edmund
+    alias: Frederick, E. (Edmund)
+    birthdate: 1870
+    gutenberg_agent_id: '6450'
+    url: http://www.gutenberg.org/2009/agents/6450
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2013-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- France -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Storytelling -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+title: The Adventures of a Modest Man
+url: http://www.gutenberg.org/ebooks/43702
