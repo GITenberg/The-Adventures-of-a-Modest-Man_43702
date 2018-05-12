@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38191
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43702#The-Adventures-of-a-Modest-Man
 gutenberg_issued: '2013-09-12'
 gutenberg_type: Text
 identifiers:
